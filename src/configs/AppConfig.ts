@@ -1,4 +1,3 @@
-const env = import.meta.env;
 
 export const appConfig = {
     service: {
