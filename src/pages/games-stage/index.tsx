@@ -1,4 +1,4 @@
-import { Box, Stack, Typography } from '@mui/material';
+import { Box, Stack } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import StoryIcon from '../../assets/icon/icon-tsx/StoryIcon';
 import GameAppBar from '../../components/game-appbar';
